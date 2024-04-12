@@ -1,2 +1,2 @@
-# Portfolio
-Portfolio for everybody.
+# A portfolio
+This portfolio is just an example.
