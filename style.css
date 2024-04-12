@@ -1,0 +1,26 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.upper-part {
+    background-color: cyan;
+    border-radius: 6px;
+}
+.lower-part {
+    background-color: darkblue;
+    color: white;
+    border-radius: 8px;
+}
+.hire {
+    width: 276px;
+    height: 52px;
+    cursor: pointer;
+    font-size: xx-large;
+    background-color: aqua;
+    font-family: 'Arial Narrow';
+    border: transparent;
+    border-radius: 35px;
+    transition-duration: 0.5s;
+}
+.btn:hover {
+    transform: translateY(-4px);
+}

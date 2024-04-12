@@ -1,0 +1,1 @@
+document.addEventListener('contextmenu', preventrightclick => preventrightclick.preventDefault());
